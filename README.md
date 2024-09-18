@@ -1,0 +1,2 @@
+# Project Netflix Clone
+ A web application that replicates the basic functionality and interface of Netflix, creating a streaming platform experience using HTML and CSS. It showcases the ability to display a catalog of movies and TV shows, provide information about each item, and simulate user interactions like selecting and playing content. While it doesn't include actual video streaming, this project demonstrates foundational web development skills and understanding of UI/UX design principles.
